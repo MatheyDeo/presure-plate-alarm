@@ -1,18 +1,19 @@
-data codes (for code)
+data codes (for debuging)
+these codes are messages sent betweeb the devices 
 
-=================== From Scale
+=================== codes from the scale
 S10 - OK unlocked mode
 S11 - OK locked mode (+offset)
 S12 - OK Intruder detected (+offset)
 S13 - OK Tared (+caldata)
 
-=================== From Alarm
+=================== codes from the alarm
 A10 - OK Alarm Online
 
-=================== From controller
+=================== codes from the controller
 G10 - OK controller online
 
 G30 - Scale Tare & lock
 G31 - Scale Unlock
-G33 - Lock & Stop alarm
+G33 - Lock & Stop the alarm
 G34 - Trigger the alarm
