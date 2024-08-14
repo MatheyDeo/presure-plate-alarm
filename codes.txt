@@ -1,0 +1,18 @@
+data codes (for code)
+
+=================== From Scale
+S10 - OK unlocked mode
+S11 - OK locked mode (+offset)
+S12 - OK Intruder detected (+offset)
+S13 - OK Tared (+caldata)
+
+=================== From Alarm
+A10 - OK Alarm Online
+
+=================== From controller
+G10 - OK controller online
+
+G30 - Scale Tare & lock
+G31 - Scale Unlock
+G33 - Lock & Stop alarm
+G34 - Trigger the alarm
